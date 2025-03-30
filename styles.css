@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  font-family: 'Karla', sans-serif;
+  box-sizing: border-box;
+  justify-content: center;
+}
+
+#counter{
+   display: block;
+   text-align: center;
+   font-size: 60px;
+ }
+
+button{
+  display: inline-block;
+  padding: .5rem;
+  font-size: 2rem;
+  text-align: center;
+  cursor: crosshair;
+}
+
+.section-one{
+  margin: 2rem;
+
+}
